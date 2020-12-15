@@ -1,2 +1,2 @@
-Assignment 2
-Heuristic value
+# Assignment 2
+## Heuristic value
