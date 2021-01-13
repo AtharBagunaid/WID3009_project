@@ -1,2 +1,2 @@
-# Assinment 1
+# Assignment 1
 ## Ms-PacMan
